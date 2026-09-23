@@ -1,0 +1,9 @@
+# OROV DATA BYTE-LOCK
+locked_at_ist: 2026-09-23 13:29:50 IST
+source: NCBI eutils nuccore (esearch/esummary/efetch), queries: Oropouche virus[Organism] AND <SLEN range>
+fetch_script: code/fetch_data.py
+
+ebadf3e1b7dc645ae167a4f898cdf4c9e4da11704c6a4e0f4e024b5f70c9440b  orov_L_complete.fasta
+82cd04d0b8998eb4e2db4fb984459873b084e50d6a61ac99f46be6f10709a7f2  orov_M_complete.fasta
+fd8d7c41f526cf362ab6c2b1ce8c58f685a83198ec7bc224be18f89a83e4f503  orov_S_complete.fasta
+ca4ea79c04968d058062e06a478156635220f39bb5e2f5a5dcdd7de9690dca6b  manifest.tsv
